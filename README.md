@@ -3,6 +3,7 @@
 # React Admin Dashboard
 
 A modern, fully responsive admin dashboard built with React and Tailwind CSS. Perfect for business intelligence, analytics, and data management applications.
+FrontEnd Application only backend can be added to it for customized graphs and stats these are hardcoded
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -177,7 +178,6 @@ This project is open source and available under the [MIT License](LICENSE).
 If you have any questions or need help, feel free to:
 - Open an [issue](../../issues)
 - Start a [discussion](../../discussions)
-- Check out the [wiki](../../wiki)
 
 ---
 
