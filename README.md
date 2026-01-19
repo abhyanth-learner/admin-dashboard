@@ -10,11 +10,10 @@ FrontEnd Application only backend can be added to it for customized graphs and s
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Demo App](/public/screenshot-for-readme-1.png)
-![Demo App](/public/screenshot-for-readme-2.png)
-![Demo App](/public/screenshot-for-readme-3.png)
+![Demo App](https://vercel.com/abhyanth-learners-projects/admin-dashboard)
 
-[Live Demo](#) • [Report Bug](../../issues) • [Request Feature](../../issues)
+
+[Live Demo](https://vercel.com/abhyanth-learners-projects/admin-dashboard) • [Report Bug](../../issues) • [Request Feature](../../issues)
 
 </div>
 
